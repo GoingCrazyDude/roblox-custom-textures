@@ -3,7 +3,7 @@ Some dahood skids were gatekeeping so yeah.
 (NOTE: This is only for roblox textures. Custom textures of games can't be edited)
 
 ## Helpful resources:
-[Texture Lib](texturelib.com) <br>
+[Texture Lib](https://texturelib.com) <br>
 [NormalMap-Online](https://cpetry.github.io/NormalMap-Online/) <br>
 
 ## Here are the steps:
