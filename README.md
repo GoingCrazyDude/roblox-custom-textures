@@ -50,7 +50,6 @@ Doing so will allow you to download the model. The name will be random with no e
 <p style='padding: 0 30px'>
     <img src='img/img8.png'>
 <p>
-(NOTE: You cannot download models that are not on sale with this method)
 
 9. Open the file with any text editor. You will notice that some of the file is gibberish. Ignore the gibberish text and look for text named: 'TexturePack'. This will have the id to the TexturePack asset near it. For me it is:
 <p style='padding: 0 30px'>
