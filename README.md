@@ -1,5 +1,5 @@
 # Dummies Guide To Making Your Own Custom TexturePack Asset
-Some dahood skids were gatekeeping so yeah.
+Some peeps were gatekeeping so yeah.
 (NOTE: This is only for roblox textures. Custom textures of games can't be edited)
 
 ## Helpful resources:
