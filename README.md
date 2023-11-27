@@ -54,7 +54,7 @@ Some dahood skids were gatekeeping so yeah.
 
 9. Open the file with any text editor. You will notice that some of the file is gibberish. Ignore the gibberish text and look for text named: 'TexturePack'. This will have the id to the TexturePack asset near it. For me it is:
 <p style='padding: 0 30px'>
-    <img src='img/img9.png'>
+    <img src='img/img9.png' height='63' width='439'>
 <p>
 
 10. (Optional) Now you can either repeat Step 8. to download the TexturePack file, or you can use curl to display the contents of the TexturePack file like so:
