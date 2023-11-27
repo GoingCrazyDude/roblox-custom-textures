@@ -46,11 +46,11 @@ Some dahood skids were gatekeeping so yeah.
     ```
     https://assetdelivery.roblox.com/v1/asset/?id=<assetid>
     ```
-&ensp;&ensp;&ensp;&ensp;&ensp;Doing so will allow you to download the model. The name will be random with no extension.
+Doing so will allow you to download the model. The name will be random with no extension.
 <p style='padding: 0 30px'>
     <img src='img/img8.png'>
 <p>
-&ensp;&ensp;&ensp;&ensp;&ensp;(NOTE: You cannot download models that are not on sale with this method)
+(NOTE: You cannot download models that are not on sale with this method)
 
 9. Open the file with any text editor. You will notice that some of the file is gibberish. Ignore the gibberish text and look for text named: 'TexturePack'. This will have the id to the TexturePack asset near it. For me it is:
 <p style='padding: 0 30px'>
@@ -61,12 +61,12 @@ Some dahood skids were gatekeeping so yeah.
     ```
     curl -k -L -s https://assetdelivery.roblox.com/v1/asset/?id=<assetid>
     ```
-&ensp;&ensp;&ensp;&ensp;&ensp;The output will be similar to this:
+The output will be similar to this:
 <p style='padding: 0 30px'>
     <img src='img/img10.png' width='700' height='200'>
 <p>
 
-&ensp;&ensp;&ensp;&ensp;&ensp;Now to use the Texture we made, we need to use it through FFlags. Specifically FStringPartTexturePackTable2022 and FStringPartTexturePackTablePre2022. You will have to replace the AssetId's in the flag(s). The first id will be the id of the TexturePack asset and the second id will be the id of the ColorMap. Do it for all the different materials.
+Now to use the Texture we made, we need to use it through FFlags. Specifically FStringPartTexturePackTable2022 and FStringPartTexturePackTablePre2022. You will have to replace the AssetId's in the flag(s). The first id will be the id of the TexturePack asset and the second id will be the id of the ColorMap. Do it for all the different materials.
 
 After you are done writing your json, put it into a [JSON Validator](https://jsonlint.com/) if you aren't using a code editor like VSCode or Sublime Text.
 
