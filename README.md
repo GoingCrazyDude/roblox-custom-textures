@@ -65,7 +65,7 @@ The output will be similar to this:
     <img src='img/img10.png' width='700' height='200'>
 <p>
 
-Now to use the Texture we made, we need to use it through FFlags. Specifically FStringPartTexturePackTable2022 and FStringPartTexturePackTablePre2022. You will have to replace the AssetId's in the flag(s). The first id will be the id of the TexturePack asset and the second id will be the id of the ColorMap. Do it for all the different materials.
+Now to use the Texture we made, we need to use it through FFlags. Specifically FStringPartTexturePackTable2022 and FStringPartTexturePackTablePre2022 for part textures, FStringTerrainMaterialTable2022 and FStringTerrainMaterialTablePre2022 For terrain textures. You will have to replace the AssetId's in the flag(s). Do it for all the different materials.
 
 After you are done writing your json, put it into a [JSON Validator](https://jsonlint.com/) if you aren't using a code editor like VSCode or Sublime Text.
 
